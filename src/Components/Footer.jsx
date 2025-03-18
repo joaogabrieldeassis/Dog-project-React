@@ -6,7 +6,7 @@ function Footer() {
     <div className={style.footer}>
       
     </div>
-  )
+  );
 }
 
-export default Footer
+export default Footer;
