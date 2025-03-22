@@ -1,12 +1,24 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este projeto utiliza React com Vite como bundler.
 
-Currently, two official plugins are available:
+🛠️ Tecnologias Utilizadas
+React: Biblioteca JavaScript para construção de interfaces de usuário.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Vite: Bundler de próxima geração para um desenvolvimento mais rápido.
 
-## Expanding the ESLint configuration
+🚀 Como Rodar o Projeto
+Clone o repositório: Primeiro, faça o clone do repositório para sua máquina local:
+git clone https://github.com/joaogabrieldeassis/Dog-project-React.git
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Instale as dependências: Navegue até a pasta raiz do projeto e execute o comando abaixo para instalar todas as dependências:
+npm install
+
+Inicie o servidor de desenvolvimento: Para rodar o projeto localmente, use o seguinte comando:
+npm run dev
+O projeto estará disponível em http://localhost:5173/ por padrão.
+
+🔑 Acesso à Aplicação
+Login Padrão
+Usuário: dog
+Senha: dog
